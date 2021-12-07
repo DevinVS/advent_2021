@@ -1,3 +1,7 @@
+[[bin]]
+name = "sonar_sweep"
+path = "src/sonar_sweep/main.rs"
+
 [package]
 name = "advent_2021"
 version = "0.1.0"
