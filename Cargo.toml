@@ -2,6 +2,10 @@
 name = "sonar_sweep"
 path = "src/sonar_sweep/main.rs"
 
+[[bin]]
+name = "dive"
+path = "src/dive/main.rs"
+
 [package]
 name = "advent_2021"
 version = "0.1.0"
