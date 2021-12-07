@@ -6,6 +6,10 @@ path = "src/sonar_sweep/main.rs"
 name = "dive"
 path = "src/dive/main.rs"
 
+[[bin]]
+name = "binary_diagnostic"
+path = "src/binary_diagnostic/main.rs"
+
 [package]
 name = "advent_2021"
 version = "0.1.0"
