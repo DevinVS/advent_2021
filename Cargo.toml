@@ -14,6 +14,10 @@ path = "src/binary_diagnostic/main.rs"
 name = "giant_squid"
 path = "src/giant_squid/main.rs"
 
+[[bin]]
+name = "hydrothermal_venture"
+path = "src/hydrothermal_venture/main.rs"
+
 [package]
 name = "advent_2021"
 version = "0.1.0"
