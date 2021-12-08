@@ -18,6 +18,10 @@ path = "src/giant_squid/main.rs"
 name = "hydrothermal_venture"
 path = "src/hydrothermal_venture/main.rs"
 
+[[bin]]
+name = "lanternfish"
+path = "src/lanternfish/main.rs"
+
 [package]
 name = "advent_2021"
 version = "0.1.0"
