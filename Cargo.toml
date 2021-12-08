@@ -22,6 +22,10 @@ path = "src/hydrothermal_venture/main.rs"
 name = "lanternfish"
 path = "src/lanternfish/main.rs"
 
+[[bin]]
+name = "treachery_of_whales"
+path = "src/treachery_of_whales/main.rs"
+
 [package]
 name = "advent_2021"
 version = "0.1.0"
